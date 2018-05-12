@@ -1,4 +1,8 @@
 _repo: Houses-and-House-Life-of-the-American-Aborigines_8112
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morgan, Lewis Henry
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2646
     wikipedia: http://en.wikipedia.org/wiki/Lewis_H._Morgan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8112#Houses-and-House-Life-of-the-American-Aborigines
 gutenberg_bookshelf:
 - Anthropology
 - Native America
